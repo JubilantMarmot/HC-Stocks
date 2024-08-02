@@ -1,0 +1,23 @@
+{ "tickers" : [
+"XOM","APA","APE","HYMC","GNS", "OXY","SNP","EC","PTR","BP",
+"ARCO","EOG","CRK","DVN",
+"NVDA","META","GE","BOX","QCOM","TSLA","AAPL","NKLA","NIO","ZM",
+"AVGO","CYBR","CGNX","CHKP","BMRN","AAPL","APE","TSLA",
+"TSLA","AMD","BABA","INTC","AMAT","MU","NFLX","GNS",
+"ATVI","ROKU","AMZN","TSLA","NKLA","NIO","ZM","MDB",
+"NOW","PYPL","ANET","QTRH","TSLA","ADBE","ABNB",
+"PCYG","TMUS","TSLA","NKLA","NIO","ZM","CRWD",
+"JPM","SYF","C","CME","GNS",
+"BAC","SCHW","ARCC","USB","CG",
+"KEY","RY","NAVI","WFC","GNS",
+"CIB","HBAN",
+"ABBV","REGN","EDIT","PFE","GNS",
+"JNJ","LGND","ALKS","TEVA","AMC","WBA","PFE",
+"CAT","SWK","WM","DOV",
+"PWR","GME","XYL",
+"IR","GME","EMR","ITW","HON",
+"FSLR","SPWR","VSLR","JKS","SEDG","GNS",
+"GOOG","AMZN","NVR",
+"MKL","ISRG","AZO","GNS",
+"META","GHC","MTD","CMG"]
+ }
