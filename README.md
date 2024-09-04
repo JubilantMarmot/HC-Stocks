@@ -13,3 +13,9 @@ You can do it in a virtual environment.
 Run `process_stocks.sh`
 
 it will make a file named stocks.json
+
+## Images
+
+Here is the result on 2020 data. It will give you a confidence level, buy sell and stop value:
+
+![](./Screenshot_20240904_142917.png)
